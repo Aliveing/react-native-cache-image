@@ -31,7 +31,7 @@ IOS图片会缓存到 RNFS.DocumentDirectoryPath/imageCaches/, android会缓存�
     });
 
 ---
-> 因为代码里没写注释（真是万恶），先看着吧... 后期补上，不过有比较详细的log输出，各位大哥大姐可以开Debug JS或者到AS和xcode的控制台看看
+> 因为代码里没写注释（真是万恶），先看着吧... 后期补上，不过有比较详细的log输出，各位大哥大姐(等等，大姐？)可以开Debug JS或者到AS和xcode的控制台看看
 ---
 ### TODO
 
